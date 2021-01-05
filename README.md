@@ -1,1 +1,1 @@
-# MNIST-data-set-using-neural-network
+# MNIST-data-set-using-neural-
