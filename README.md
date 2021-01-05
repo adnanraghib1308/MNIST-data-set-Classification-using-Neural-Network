@@ -1,2 +1,2 @@
-# MNIST-data-set-Classification-using-Neural-Net
+# MNIST-data-set-using-neural-network
 
